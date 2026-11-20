@@ -13,9 +13,10 @@ O projeto evolui ao longo do bloco: começa como um programa standalone de conso
 
 | Entrega | Onde está |
 |---|---|
-| Documento de requisitos (RF, RNF, regras de negócio), casos de uso e justificativa de escopo | [`docs/TP1_Requisitos_Casos_de_Uso.docx`](docs/TP1_Requisitos_Casos_de_Uso.docx) |
+| Documento de requisitos (RF, RNF, regras de negócio), casos de uso e justificativa de escopo | [`docs/lidiano_santos_PB_TP1.pdf`](docs/lidiano_santos_PB_TP1.pdf) (PDF) · [`docs/lidiano_santos_PB_TP1.docx`](docs/lidiano_santos_PB_TP1.docx) (Word) |
 | Diagrama de casos de uso | Figura 1 do documento (seção 3.1) |
 | Configuração do ambiente (JDK 21) | [`docs/img/ambiente-jdk.png`](docs/img/ambiente-jdk.png) |
+| Programa em execução | [`docs/img/execucao-programa.png`](docs/img/execucao-programa.png) |
 | Programa standalone inicial | [`src/Main.java`](src/Main.java) |
 
 ### O programa
