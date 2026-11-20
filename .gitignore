@@ -1,0 +1,7 @@
+*Teste de Performance*.pdf
+*.backup*.docx
+~$*.docx
+.idea/
+*.iml
+out/
+*.class
